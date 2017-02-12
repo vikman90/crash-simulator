@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>traffic_lights.png</file>
+        <file>crash.png</file>
+    </qresource>
+</RCC>
